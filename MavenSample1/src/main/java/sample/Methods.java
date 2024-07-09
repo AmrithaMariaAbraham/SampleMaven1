@@ -2,7 +2,7 @@ package sample;
 
 public class Methods 
 {
-	int a,b,sum,c=10;
+	int a,b,sum;
 	public void getValue(int a,int b)
 	{
 		this.a=a;

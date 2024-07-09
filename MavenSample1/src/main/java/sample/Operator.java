@@ -1,6 +1,7 @@
 package sample;
-
-public class Operator extends Methods{
+public class Operator
+{
+	int c=10;
 	public Operator()
 	{
 		System.out.println("Postincrement addition:"+ c++);
