@@ -1,7 +1,5 @@
 package sample;
-
 import java.util.Scanner;
-
 public class Operator
 {
 	int c=10,d;
